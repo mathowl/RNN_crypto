@@ -38,7 +38,7 @@ for LSTM_layer in LSTM_layers:
 
             MODEL_PATH = r'filepath\{}.model'.format(NAME) #insert a filepath for models
             PROB = r"Crypt-RNN\{}".format(NAME)
-            LOGDIR = r'filepath\ML-logs\{}'.format(PROB) #inserts a filepath for logs
+            LOGDIR = r'filepath\ML-logs\{}'.format(PROB) #insert a filepath for logs
 
 
             
